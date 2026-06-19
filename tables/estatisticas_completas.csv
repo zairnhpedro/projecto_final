@@ -1,0 +1,12 @@
+,id_amostra,id_paciente,patogeno,valor_ct,resultado,data_teste,laboratorio,qualidade_amostra
+count,120,120,120,120.0,120,120,120,120
+unique,120,120,2,,2,120,2,2
+top,S0,P0,COVID-19,,Positivo,2025-01-01,Lab2,Boa
+freq,1,1,66,,95,1,63,66
+mean,,,,25.33,,,,
+std,,,,5.653148152455714,,,,
+min,,,,14.0,,,,
+25%,,,,21.3,,,,
+50%,,,,25.0,,,,
+75%,,,,28.8,,,,
+max,,,,40.8,,,,
